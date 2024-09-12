@@ -1,0 +1,31 @@
+
+---
+
+### .gitignore
+
+```gitignore
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# CSV Files
+*.csv
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+
+# Environment
+.env
+
+# VS Code settings
+.vscode/
+
+# MacOS
+.DS_Store
